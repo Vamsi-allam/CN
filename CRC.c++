@@ -43,3 +43,8 @@ int main() {
     cout << endl;
     return 0;
 }
+
+OUTPUT :
+Message: 10101
+Polynomial: 1001
+Remainder (CRC): 111
