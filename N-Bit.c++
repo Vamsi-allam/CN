@@ -73,3 +73,8 @@ int main() {
 
     return 0;
 }
+
+// OUTPUT :
+
+// Enter the number of frames to send: 6
+// Enter the error rate (between 0 and 1): 0.2
